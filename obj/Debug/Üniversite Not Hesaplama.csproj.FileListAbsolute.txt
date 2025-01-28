@@ -12,3 +12,17 @@ C:\Users\Kenan ÖZTÜRK\source\repos\Üniversite Not Hesaplama\Üniversite Not H
 C:\Users\Kenan ÖZTÜRK\source\repos\Üniversite Not Hesaplama\Üniversite Not Hesaplama\obj\Debug\Üniversite_Not_Hesaplama.Onluk_ve_İkilik_Çevirme.resources
 C:\Users\Kenan ÖZTÜRK\source\repos\Üniversite Not Hesaplama\Üniversite Not Hesaplama\obj\Debug\Üniversite_Not_Hesaplama.Vize_ile_Final_Bulma.resources
 C:\Users\Kenan ÖZTÜRK\source\repos\Üniversite Not Hesaplama\Üniversite Not Hesaplama\obj\Debug\Üniversite_Not_Hesaplama.Sene_Sonu_Genel_Ortalama.resources
+C:\Users\Kenan\Documents\GitHub\Not-Hesaplama-ve-Donusum-Uygulamasi\bin\Debug\Üniversite Not Hesaplama.exe.config
+C:\Users\Kenan\Documents\GitHub\Not-Hesaplama-ve-Donusum-Uygulamasi\bin\Debug\Üniversite Not Hesaplama.exe
+C:\Users\Kenan\Documents\GitHub\Not-Hesaplama-ve-Donusum-Uygulamasi\bin\Debug\Üniversite Not Hesaplama.pdb
+C:\Users\Kenan\Documents\GitHub\Not-Hesaplama-ve-Donusum-Uygulamasi\obj\Debug\Üniversite Not Hesaplama.csproj.AssemblyReference.cache
+C:\Users\Kenan\Documents\GitHub\Not-Hesaplama-ve-Donusum-Uygulamasi\obj\Debug\Üniversite_Not_Hesaplama.Form1.resources
+C:\Users\Kenan\Documents\GitHub\Not-Hesaplama-ve-Donusum-Uygulamasi\obj\Debug\Üniversite_Not_Hesaplama.Onluk_ve_İkilik_Çevirme.resources
+C:\Users\Kenan\Documents\GitHub\Not-Hesaplama-ve-Donusum-Uygulamasi\obj\Debug\Üniversite_Not_Hesaplama.Properties.Resources.resources
+C:\Users\Kenan\Documents\GitHub\Not-Hesaplama-ve-Donusum-Uygulamasi\obj\Debug\Üniversite_Not_Hesaplama.Sene_Sonu_Genel_Ortalama.resources
+C:\Users\Kenan\Documents\GitHub\Not-Hesaplama-ve-Donusum-Uygulamasi\obj\Debug\Üniversite_Not_Hesaplama.Vize_Final_Ortalama_Hesaplama.resources
+C:\Users\Kenan\Documents\GitHub\Not-Hesaplama-ve-Donusum-Uygulamasi\obj\Debug\Üniversite_Not_Hesaplama.Vize_ile_Final_Bulma.resources
+C:\Users\Kenan\Documents\GitHub\Not-Hesaplama-ve-Donusum-Uygulamasi\obj\Debug\Üniversite Not Hesaplama.csproj.GenerateResource.cache
+C:\Users\Kenan\Documents\GitHub\Not-Hesaplama-ve-Donusum-Uygulamasi\obj\Debug\Üniversite Not Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Kenan\Documents\GitHub\Not-Hesaplama-ve-Donusum-Uygulamasi\obj\Debug\Üniversite Not Hesaplama.exe
+C:\Users\Kenan\Documents\GitHub\Not-Hesaplama-ve-Donusum-Uygulamasi\obj\Debug\Üniversite Not Hesaplama.pdb
